@@ -1,6 +1,6 @@
 <?php
 /**
- * Main template file.
+ * Main template file
  * 
  * @package Deeroo
  */
