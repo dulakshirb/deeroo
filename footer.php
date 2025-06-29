@@ -4,9 +4,12 @@
  * 
  * @package Deeroo
  */
- ?>
+?>
 
- <footer>Footer</footer>
- <?php wp_footer(); ?>
- </body>
- </html>
+<footer>Footer</footer>
+</div>
+</div>
+<?php wp_footer(); ?>
+</body>
+
+</html>
